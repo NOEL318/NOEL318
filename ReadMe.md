@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack and web related technologies  
   
 
-- ⚡ Fun fact: I love code optimization.  
+- ⚡ Fun fact: I love code in new languges to learn.
   
 
 <br/>  
