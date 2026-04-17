@@ -1,5 +1,5 @@
 # 💫 About Me:
-: ) I'm Noel, a full-time full-stack freelance developer since 2019 <br>👨‍💻 Working remotely since 2022 🚀<br>🌱 I’m currently learning TypeScript and MicroServices Architecture<br>❓ Ask me about anything related to MERN stack and web related technologies<br>⚡ Fun fact: I listen a lot of genres while programming just for fun and be active.<br><br>
+: ) I'm Noel, a full-time full-stack freelance developer since 2019 <br>👨‍💻 Working remotely since 2022 🚀<br>🌱 I’m currently learning TypeScript<br>❓ Ask me about anything related to MERN stack and web related technologies<br>⚡ Fun fact: I listen a lot of music genres while programming just for fun and be active.<br><br>
 
 
 ## 🌐 Socials:
